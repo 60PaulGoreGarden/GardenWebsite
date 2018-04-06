@@ -1,3 +1,3 @@
 ---
-[Workdays](_posts/workdays.md)
-[Compost](_posts/compost.md)
+[Workdays](workdays.html)
+[Compost](compost.html)

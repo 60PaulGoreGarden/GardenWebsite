@@ -23,7 +23,9 @@ url: "60pg.info" # the base hostname & protocol for your site, e.g. http://examp
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-time-machine
+#theme: jekyll-theme-time-machine
+#theme: jekyll-theme-merlot
+theme: jekyll-swiss
 plugins:
   - jekyll-feed
 

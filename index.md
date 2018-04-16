@@ -1,8 +1,7 @@
 ---
 layout: page
-title: 60 Paul Gore Garden Info
+title: 60 Paul Gore Community Garden
 ---
-# 60 Paul Gore Community Garden
 
 ### Upcoming Workdays
 
@@ -21,3 +20,5 @@ Our group's mailing list is hosted on Yahoo at <a href="mailto:60_paul_gore_gard
 <script>
 !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
 </script>
+
+#### [website info](website.html)

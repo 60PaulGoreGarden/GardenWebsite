@@ -3,14 +3,24 @@ layout: page
 title: 60 Paul Gore Community Garden
 ---
 
+### Upcoming Meetings
+
+The Spring kickoff meeting is happening May 10th at 6pm. Check the mailing list for location information
+
 ### Upcoming Workdays
 
 * Sunday May 6th 10am - 1pm
 * Saturday June 2 10am - 1pm
 
+### Garden Membership
+
+Members need to fill out and completed the [garden contract](2018-contract.pdf).
+
+People wishing to join the garden can joing the waiting list here -- TBD.
+
 ### Compost Guidelines
 
-Please keep invasives out of the compost.
+Please keep invasives out of the compost. Now is a great time to remove any sprouting Star of Bethleham. A more complete list of invasives is coming along with pictures.
 
 ### Mailing list
 

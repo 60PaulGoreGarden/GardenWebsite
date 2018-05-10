@@ -9,8 +9,12 @@ The Spring kickoff meeting is happening May 10th at 6pm. Check the mailing list 
 
 ### Upcoming Workdays
 
-* Sunday May 6th 10am - 1pm
 * Saturday June 2 10am - 1pm
+* Wednesday June 27 5pm - 8pm
+* Tuesday July 24th 5-8
+* Saturday August 18th 10am - 1pm
+* Saturday September 15th 10am - 1pm
+* Saturday October 20th 10am - 1pm
 
 ### Garden Membership
 

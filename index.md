@@ -26,6 +26,13 @@ People wishing to join the garden can joing the waiting list here -- TBD.
 
 Please keep invasives out of the compost. Now is a great time to remove any sprouting Star of Bethleham. A more complete list of invasives is coming along with pictures.
 
+* Spider Wort. 
+* Star of Bethlehem. 
+* Swallow Wort. 
+* Garlic Mustard. 
+* Gout Weed.
+* Field Bindweed.
+
 ### Mailing list
 
 Our group's mailing list is hosted on Yahoo at <a href="mailto:60_paul_gore_garden@yahoogroups.com">60_paul_gore_garden@yahoogroups.com</a>. Note you must post to the email list from the address you are subscribed with.

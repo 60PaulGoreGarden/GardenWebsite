@@ -3,10 +3,6 @@ layout: page
 title: 60 Paul Gore Community Garden
 ---
 
-### Upcoming Meetings
-
-The Spring kickoff meeting is happening May 10th at 6pm. Check the mailing list for location information
-
 ### Upcoming Workdays
 
 * Saturday June 2 10am - 1pm
@@ -20,11 +16,11 @@ The Spring kickoff meeting is happening May 10th at 6pm. Check the mailing list 
 
 Members need to fill out and completed the [garden contract](2018-contract.pdf).
 
-People wishing to join the garden can joing the waiting list here -- TBD.
-
 ### Compost Guidelines
 
-Please keep invasives out of the compost. Now is a great time to remove any sprouting Star of Bethleham. A more complete list of invasives is coming along with pictures.
+Please keep invasives out of the compost. Now is a great time to remove any sprouting Star of Bethleham. 
+
+The six worst invasive offenders are:
 
 * Spider Wort. 
 * Star of Bethlehem. 
@@ -35,7 +31,8 @@ Please keep invasives out of the compost. Now is a great time to remove any spro
 
 ### Mailing list
 
-Our group's mailing list is hosted on Yahoo at <a href="mailto:60_paul_gore_garden@yahoogroups.com">60_paul_gore_garden@yahoogroups.com</a>. Note you must post to the email list from the address you are subscribed with.
+Our garden uses a [Google Group](https://groups.google.com/forum/#!forum/60-paul-gore-community-garden) to keep in touch. Members of the garden can request to join the list [here](https://groups.google.com/forum/#!forum/60-paul-gore-community-garden).
+
 
 <a class="weatherwidget-io" href="https://forecast7.com/en/42d31n71d12/02130/?unit=us" data-label_1="60 Paul Gore" data-label_2="Weather" data-days="3" data-theme="pure" >60 Paul Gore Weather</a>
 <script>
